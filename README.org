@@ -1,0 +1,4 @@
+#+TITLE: dotfiles
+
+* .gitignore
+  根据开发环境的情况，从[[https://github.com/github/gitignore][github/gitignore]]项目中复制一些.gitignore模板，拼接为一个.gitignore文件。在新建项目时，可以直接复制该.gitignore文件。
